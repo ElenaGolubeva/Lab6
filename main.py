@@ -1,5 +1,4 @@
 import psycopg2
-import random
 import telebot
 from datetime import datetime
 from telebot import types
